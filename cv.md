@@ -40,6 +40,6 @@ with open(name, "r+") as frist_name:
 ## Experience. Junior Dev
 * **no experience yet**
 ## education
-
+* **Secondary education.  I'm studying myself. Apart from these courses, I have not taken any courses.**
 ## English language
 * **still basic, or translator))))**
