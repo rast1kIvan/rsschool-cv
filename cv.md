@@ -1,16 +1,16 @@
-#1. Ivan Chuamkov
+# Ivan Chuamkov
 
-#2. My contacts
+# My contacts
 
-#3. Аbout me
+# Аbout me
 
-#4. My skills
+# My skills
 
-#5. Сode
+# Сode
 
-#6. Experience
+# Experience
 
-#7. Experience
+# Experience
 
-#English language
-###still basic, or translator))))
+# English language
+### still basic, or translator))))
