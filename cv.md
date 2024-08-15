@@ -1,17 +1,17 @@
 # Ivan Chuamkov
  
-# My contacts
+## My contacts
 * **email:** ivanchumakov16@icloud.com
 * **discord:** Rast1k (@rast1kIvan)
-# Аbout me
+## Аbout me
 
-# My skills
+## My skills
 
-# Сode
+## Сode
 
-# Experience
+## Experience
 
-# Experience
+## Experience
 
-# English language
-### still basic, or translator))))
+## English language
+* **still basic, or translator))))**
