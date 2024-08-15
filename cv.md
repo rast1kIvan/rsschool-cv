@@ -37,9 +37,9 @@ with open(name, "r+") as frist_name:
 		pass
 ```
 
-## Experience
-
-## Experience
+## Experience. Junior Dev
+* **no experience yet**
+## education
 
 ## English language
 * **still basic, or translator))))**
